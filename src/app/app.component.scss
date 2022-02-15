@@ -1,5 +1,19 @@
-.tool{
+body{ font-family: Tahoma;
+
+  font-size: 13px;
 }
-.infoDiv{
-  background: url("../assets/images/backgroud/backPC.svg")
+ul{ margin: 0px;
+  padding: 0px;
 }
+ul li{
+  list-style: none;
+}
+#div-tong{ background: url("../assets/images/backgroud/backPC.png") no-repeat;
+  height: 551px;
+  margin-top: 20px;
+}
+#div-tong #button{
+  margin-top: 20px;
+  float: left;
+}
+
